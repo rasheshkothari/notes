@@ -1,0 +1,46 @@
+https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da  
+https://towardsdatascience.com/train-ner-with-custom-training-data-using-spacy-525ce748fab7  
+https://www.youtube.com/watch?v=1ePkOSGoIFI  
+https://stackoverflow.com/questions/19770113/comparing-and-matching-product-names-from-different-stores-suppliers  
+https://www.analyticsinsight.net/company-names-standardization-using-a-fuzzy-nlp-approach/  
+  
+
+similar problem  
+https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca  
+https://medium.com/wbaa/https-medium-com-ingwbaa-boosting-selection-of-the-most-similar-entities-in-large-scale-datasets-450b3242e618  
+https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/  
+https://stackoverflow.com/questions/38577332/apply-fuzzy-matching-across-a-dataframe-column-and-save-results-in-a-new-column  
+https://towardsdatascience.com/hybrid-fuzzy-name-matching-52a4ec8b749c  
+https://github.com/dedupeio/dedupe/tree/master/docs  
+https://arxiv.org/pdf/1206.5538.pdf  
+  
+  
+GITHUB FOR PRODUCT MATCHING IN ECOMM  
+https://github.com/jahyeha/product-matching-model  
+https://github.com/maladeep/Name-Matching-In-Python  
+https://github.com/vchernoy/ProductListingMatching  
+https://github.com/nate3223/Product-Matching-Using-String-Similarity  - Jaccard index
+  
+Research Papers  
+https://keg.cs.tsinghua.edu.cn/jietang/publications/ICDM12-Wu-et-al-Product-mention-recognition.pdf  
+  
+    
+
+KT NOTES   
+  
+GS1 GTIN  
+https://www.gs1.org/standards/id-keys/gtin  
+LOOKUP tool -> https://www.gs1us.org/tools/gs1-company-database-gepir  
+  
+A UPC Company Prefix is a 6 – 10 digit number assigned to members by the GS1 organization in the United States.  The number of digits in a Company Prefix can vary between 6 – 10 characters, depending on the number of products a manufacturer needs to identify.  
+  
+UPC standards  
+  
+  
+PRODUCT_MASTER_CATALOG is where the verified UPCs  and descriptions are going  
+D_GS1_PRODUCTS contains everything I could find displayed in GS1 through our subscription  
+D_WINE,D_SPIRITS,D_BEER contain attributes that we need to tag to individual products  
+
+
+
+
